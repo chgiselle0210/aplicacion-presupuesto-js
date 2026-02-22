@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="css/estilos.css" />
 </head>
 
-<body>
+<body onload="cargarApp()">
   <div class="cabecero">
     <div class="presupuesto">
       <div class="presupuesto_titulo">Presupuesto Disponible</div>
@@ -33,7 +33,7 @@
 
   <div class="agregar">
     <div class="agregar_contenedor">
-      <form id="forma">
+      <form id="forma" onsubmit="return false">
         <select class="agregar_tipo" id="tipo">
           <option value="ingreso" selected>+</option>
           <option value="egreso">-</option>
@@ -43,7 +43,7 @@
 
         <input type="number" class="agregar_valor" id="valor" placeholder="Valor" step="0.01" />
 
-        <button type="submit" class="agregar_btn">
+        <button type="submit" class="agregar_btn" onclick="agregarDato()">
           <ion-icon name="checkmark-circle-outline"></ion-icon>
         </button>
       </form>
