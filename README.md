@@ -4,9 +4,9 @@
 
 Este proyecto corresponde al entregable final del curso **Programación con JavaScript I**.  
 
-Se desarrolló una aplicación Web interactiva para la administración de presupuesto, que hace posible registrar ingresos y egresos, calcular totales dinámicamente y observar el porcentaje que representan los egresos respecto a los ingresos.
+Desarrollé una aplicación Web interactiva para la administración de presupuesto, que hace posible registrar ingresos y egresos, calcular totales dinámicamente y observar el porcentaje que representan los egresos respecto a los ingresos.
 
-Con este proyecto, se ponen en práctica los conocimientos adquiridos a lo largo de los temas y avances semanales del curso.
+Con este proyecto, puse en práctica los conocimientos aprendidos a lo largo de los temas y avances semanales del curso.
 
 ---
 
