@@ -62,7 +62,7 @@ Aplicar los conocimientos aprendidos en JavaScript para desarrollar una página 
 
 ## Publicación
 
-Repositorio GitHub: []
+Repositorio GitHub: [https://github.com/chgiselle0210/aplicacion-presupuesto-js]
 
 Aplicación publicada en Netlify: []
 
