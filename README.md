@@ -1,4 +1,4 @@
-# Proyecto Final – Programación con JavaScript I
+# Proyecto Final del curso de Programación con JavaScript I
 
 ## Descripción
 
