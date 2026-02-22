@@ -256,3 +256,34 @@ h2 {
 .elemento:hover .elemento_eliminar--btn { display: block; }
 .elemento:hover .elemento_valor { transform: translateX(-20px); }
 .elemento:hover .elemento_porcentaje { transform: translateX(-20px); }
+
+@media (max-width: 768px){
+
+    .presupuesto{
+        width: 95%;
+        padding: 20px;
+    }
+
+    .agregar{
+        flex-direction: column;
+        align-items: stretch;
+    }
+
+    .agregar input,
+    .agregar select,
+    .agregar button{
+        width: 100%;
+        margin: 5px 0;
+    }
+
+    .contenedor{
+        width: 95%;
+    }
+
+    .ingreso,
+    .egreso{
+        flex-direction: column;
+        align-items: flex-start;
+    }
+
+}
